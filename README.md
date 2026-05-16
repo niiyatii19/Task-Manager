@@ -136,8 +136,8 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Mayank Swaraj**
-📧 [tishya.singh2011@gmail.com](mailto:tishya.singh2011@gmail.com)
+**Niyati Sardana**
+📧 [nsardana32@gmail.com](mailto:nsardana32@gmail.com)
 
 ---
 
