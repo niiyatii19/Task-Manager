@@ -12,7 +12,7 @@ team-task-manager-ipve.vercel.app
 
 ## 📂 GitHub Repository
 
-https://github.com/Tishya20/TeamTaskManager
+(https://github.com/niiyatii19/Task-Manager)
 
 ---
 
